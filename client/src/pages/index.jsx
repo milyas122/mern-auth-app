@@ -1,5 +1,7 @@
-export { Home } from "./Home";
-export { Profile } from "./Profile";
-export { About } from "./About";
-export { SignUp } from "./SignUp";
-export { SignIn } from "./SignIn";
+import Home from "./Home";
+import Profile from "./Profile";
+import About from "./About";
+import SignUp from "./SignUp";
+import SignIn from "./SignIn";
+
+export { Home, Profile, About, SignUp, SignIn };
